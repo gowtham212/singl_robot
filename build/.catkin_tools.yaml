@@ -1,0 +1,6 @@
+devel_space: /home/fldec-05/singlerobot_ws/devel
+install: false
+install_space: /home/fldec-05/singlerobot_ws/install
+profile: default
+source_space: /home/fldec-05/singlerobot_ws/src
+workspace: /home/fldec-05/singlerobot_ws

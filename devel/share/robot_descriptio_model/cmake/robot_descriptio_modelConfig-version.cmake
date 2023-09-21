@@ -1,0 +1,1 @@
+/home/fldec-05/singlerobot_ws/devel/.private/robot_descriptio_model/share/robot_descriptio_model/cmake/robot_descriptio_modelConfig-version.cmake
